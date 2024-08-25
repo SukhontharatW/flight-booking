@@ -22,8 +22,11 @@ Navigate to the frontend directory and install the dependencies:
 **npm install**
 
 4. Set Up Environment Variables
+put keys belows in .evn file  
+**API_KEY = password1234**
+**JWT_SECRET=your_jwt_secret**
 
-5. Start the Backend Server
+6. Start the Backend Server
 Navigate to the backend directory  and start the server:
 
 **npm run start**
