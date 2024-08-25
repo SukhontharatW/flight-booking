@@ -1,0 +1,72 @@
+[
+  {
+    "flight_number": "FL1234",
+    "origin": {
+      "city": "Bangkok",
+      "code": "BKK"
+    },
+    "destination": {
+      "city": "Tokyo",
+      "code": "NRT"
+    },
+    "departure_time": "2024-08-25T15:00:00Z",
+    "price": 550.0,
+    "cabin_class": "Economy"
+  },
+  {
+    "flight_number": "FL5678",
+    "origin": {
+      "city": "Bangkok",
+      "code": "BKK"
+    },
+    "destination": {
+      "city": "Tokyo",
+      "code": "NRT"
+    },
+    "departure_time": "2024-08-25T18:00:00Z",
+    "price": 600.0,
+    "cabin_class": "Business"
+  },
+  {
+    "flight_number": "FL9101",
+    "origin": {
+      "city": "Singapore",
+      "code": "SIN"
+    },
+    "destination": {
+      "city": "Paris",
+      "code": "CDG"
+    },
+    "departure_time": "2024-08-26T22:00:00Z",
+    "price": 1200.0,
+    "cabin_class": "Economy"
+  },
+  {
+    "flight_number": "FL1121",
+    "origin": {
+      "city": "Los Angeles",
+      "code": "LAX"
+    },
+    "destination": {
+      "city": "New York",
+      "code": "JFK"
+    },
+    "departure_time": "2024-08-27T09:00:00Z",
+    "price": 300.0,
+    "cabin_class": "Economy"
+  },
+  {
+    "flight_number": "FL3141",
+    "origin": {
+      "city": "Paris",
+      "code": "CDG"
+    },
+    "destination": {
+      "city": "Rome",
+      "code": "FCO"
+    },
+    "departure_time": "2024-08-28T13:00:00Z",
+    "price": 150.0,
+    "cabin_class": "Business"
+  }
+]

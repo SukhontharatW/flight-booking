@@ -1,0 +1,212 @@
+[
+  {
+    "email": "user1@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "John",
+    "lastName": "Doe"
+  },
+  {
+    "email": "user2@example.com",
+    "password": "password123",
+    "role": "admin",
+    "firstName": "Jane",
+    "lastName": "Smith"
+  },
+  {
+    "email": "user3@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Michael",
+    "lastName": "Brown"
+  },
+  {
+    "email": "user4@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Emily",
+    "lastName": "Davis"
+  },
+  {
+    "email": "user5@example.com",
+    "password": "password123",
+    "role": "admin",
+    "firstName": "Christopher",
+    "lastName": "Miller"
+  },
+  {
+    "email": "user6@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Sarah",
+    "lastName": "Wilson"
+  },
+  {
+    "email": "user7@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "David",
+    "lastName": "Moore"
+  },
+  {
+    "email": "user8@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Jessica",
+    "lastName": "Taylor"
+  },
+  {
+    "email": "user9@example.com",
+    "password": "password123",
+    "role": "admin",
+    "firstName": "Daniel",
+    "lastName": "Anderson"
+  },
+  {
+    "email": "user10@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Laura",
+    "lastName": "Thomas"
+  },
+  {
+    "email": "user11@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "James",
+    "lastName": "Jackson"
+  },
+  {
+    "email": "user12@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Amy",
+    "lastName": "White"
+  },
+  {
+    "email": "user13@example.com",
+    "password": "password123",
+    "role": "admin",
+    "firstName": "Robert",
+    "lastName": "Harris"
+  },
+  {
+    "email": "user14@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Michelle",
+    "lastName": "Martin"
+  },
+  {
+    "email": "user15@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "William",
+    "lastName": "Thompson"
+  },
+  {
+    "email": "user16@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Angela",
+    "lastName": "Garcia"
+  },
+  {
+    "email": "user17@example.com",
+    "password": "password123",
+    "role": "admin",
+    "firstName": "Charles",
+    "lastName": "Martinez"
+  },
+  {
+    "email": "user18@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Elizabeth",
+    "lastName": "Robinson"
+  },
+  {
+    "email": "user19@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Joshua",
+    "lastName": "Clark"
+  },
+  {
+    "email": "user20@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Megan",
+    "lastName": "Rodriguez"
+  },
+  {
+    "email": "user21@example.com",
+    "password": "password123",
+    "role": "admin",
+    "firstName": "Anthony",
+    "lastName": "Lewis"
+  },
+  {
+    "email": "user22@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Samantha",
+    "lastName": "Lee"
+  },
+  {
+    "email": "user23@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Matthew",
+    "lastName": "Walker"
+  },
+  {
+    "email": "user24@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Ashley",
+    "lastName": "Hall"
+  },
+  {
+    "email": "user25@example.com",
+    "password": "password123",
+    "role": "admin",
+    "firstName": "Brian",
+    "lastName": "Allen"
+  },
+  {
+    "email": "user26@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Brittany",
+    "lastName": "Young"
+  },
+  {
+    "email": "user27@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Andrew",
+    "lastName": "Hernandez"
+  },
+  {
+    "email": "user28@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Lauren",
+    "lastName": "King"
+  },
+  {
+    "email": "user29@example.com",
+    "password": "password123",
+    "role": "admin",
+    "firstName": "Ryan",
+    "lastName": "Wright"
+  },
+  {
+    "email": "user30@example.com",
+    "password": "password123",
+    "role": "user",
+    "firstName": "Courtney",
+    "lastName": "Lopez"
+  }
+]

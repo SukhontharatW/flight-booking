@@ -1,0 +1,112 @@
+[
+  {
+    "booking_id": 1,
+    "user_id": 10,
+    "flight_number": "DL8336",
+    "airline": "Delta Airlines",
+    "departure_time": "2024-08-20 05:46:33",
+    "return_time": "2024-08-20 11:46:33",
+    "cabin_class": "Economy",
+    "price": "1263.39",
+    "booking_status": "confirmed"
+  },
+  {
+    "booking_id": 2,
+    "user_id": 12,
+    "flight_number": "DL9712",
+    "airline": "Delta Airlines",
+    "departure_time": "2024-08-20 10:46:33",
+    "return_time": "2024-08-20 13:16:33",
+    "cabin_class": "First Class",
+    "price": "2073.61",
+    "booking_status": "confirmed"
+  },
+  {
+    "booking_id": 3,
+    "user_id": 6,
+    "flight_number": "SQ9545",
+    "airline": "Singapore Airlines",
+    "departure_time": "2024-08-20 08:46:33",
+    "return_time": "2024-08-20 14:46:33",
+    "cabin_class": "First Class",
+    "price": "972.61",
+    "booking_status": "confirmed"
+  },
+  {
+    "booking_id": 4,
+    "user_id": 7,
+    "flight_number": "TG9388",
+    "airline": "Thai Airways",
+    "departure_time": "2024-08-20 07:46:33",
+    "return_time": "2024-08-20 10:16:33",
+    "cabin_class": "Economy",
+    "price": "1723.92",
+    "booking_status": "confirmed"
+  },
+  {
+    "booking_id": 5,
+    "user_id": 17,
+    "flight_number": "TG9388",
+    "airline": "Thai Airways",
+    "departure_time": "2024-08-20 07:46:33",
+    "return_time": "2024-08-20 10:16:33",
+    "cabin_class": "Economy",
+    "price": "1723.92",
+    "booking_status": "confirmed"
+  },
+  {
+    "booking_id": 6,
+    "user_id": 6,
+    "flight_number": "AZ2219",
+    "airline": "Alitalia",
+    "departure_time": "2024-08-20 05:46:33",
+    "return_time": "2024-08-20 11:46:33",
+    "cabin_class": "First Class",
+    "price": "633.85",
+    "booking_status": "confirmed"
+  },
+  {
+    "booking_id": 7,
+    "user_id": 11,
+    "flight_number": "SQ5068",
+    "airline": "Singapore Airlines",
+    "departure_time": "2024-08-20 03:46:33",
+    "return_time": "2024-08-20 09:46:33",
+    "cabin_class": "Business",
+    "price": "2871.61",
+    "booking_status": "confirmed"
+  },
+  {
+    "booking_id": 8,
+    "user_id": 16,
+    "flight_number": "SQ9545",
+    "airline": "Singapore Airlines",
+    "departure_time": "2024-08-20 08:46:33",
+    "return_time": "2024-08-20 14:46:33",
+    "cabin_class": "First Class",
+    "price": "972.61",
+    "booking_status": "confirmed"
+  },
+  {
+    "booking_id": 9,
+    "user_id": 15,
+    "flight_number": "SQ9545",
+    "airline": "Singapore Airlines",
+    "departure_time": "2024-08-20 08:46:33",
+    "return_time": "2024-08-20 14:46:33",
+    "cabin_class": "First Class",
+    "price": "972.61",
+    "booking_status": "confirmed"
+  },
+  {
+    "booking_id": 10,
+    "user_id": 12,
+    "flight_number": "SQ9545",
+    "airline": "Singapore Airlines",
+    "departure_time": "2024-08-20 08:46:33",
+    "return_time": "2024-08-20 14:46:33",
+    "cabin_class": "First Class",
+    "price": "972.61",
+    "booking_status": "confirmed"
+  }
+]
